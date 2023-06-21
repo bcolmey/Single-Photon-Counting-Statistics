@@ -28,7 +28,7 @@ Here are some examples of plots produced by the program.
 ![Alt text](https://github.com/bcolmey/Single-Photon-Counting-Statistics/blob/main/plots/single-photon_histogram.jpeg?raw=true "Title")
 
 ### Gaussian jitter effect on detection times
-![Alt text](https://github.com/bcolmey/Aharonov-Bohm-Space-Charge-Effects-in-Python/blob/main/Animations/Gaussian_jitter.jpeg?raw=true "Title")
+![Alt text](https://github.com/bcolmey/Single-Photon-Counting-Statistics/blob/main/plots/Gaussian_jitter.jpeg?raw=true "Title")
 
 ### Histogram of coincidence events for a pulsed source of bi-photons pairs
 ![Alt text](https://github.com/bcolmey/Single-Photon-Counting-Statistics/blob/main/plots/bi-photon_histogram.jpeg?raw=true "Title")
