@@ -2,7 +2,7 @@
 A Python script simulating a single photon counting experiment using a Hanbury-Brown and Twiss (HBT) interferometer. The code simulates photon emission from a semiconductor quantum dot and its subsequent detection and processing, including calculations of the source's photon intensity autocorrelation function g²(τ). Realistic experimental parameters such as detector response functions, detector dead time, dark counts, and multiphoton emission are included. This program may serve as a digital companion to physical experimentation, helping to predict, interpret, and cross-verify experimental results. A full description of the code can be found here:
 https://medium.com/@benjamincolmey/simulating-single-photon-emission-a-statistical-approach-in-python-aa348cc8119c
 
-The entirety of the code can be found here and was originally undertaken in collaboration with James Godfrey at Queen’s University during the summer of 2020 while Covid collectively kept us at home and out of the lab.
+This work was undertaken in collaboration with James Godfrey at Queen’s University during the summer of 2020 while Covid collectively kept us at home and out of the lab.
 
 ## Running
 
@@ -11,7 +11,7 @@ To run this code simply clone this repository and run the photon_counting_experi
 ```
 $ git clone https://github.com/bcolmey/Single-Photon-Counting-Statistics
 $ cd Single-Photon-Counting-Statistics
-$ python run_me.py 
+$ python photon_counting_experiment.py
 ```
 
 ## Examples:
